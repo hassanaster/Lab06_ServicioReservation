@@ -11,7 +11,6 @@ import org.springframework.web.filter.CorsFilter;
 
 
 @SpringBootApplication
-@EnableEurekaServer
 public class MicroServicesRegistrationApplication {
  
 	@Bean
